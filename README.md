@@ -1,2 +1,2 @@
 # git-flow
-You are in the develop branch.
+You are now in the release-0.1.0 branch.
